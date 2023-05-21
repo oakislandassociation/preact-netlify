@@ -24,11 +24,9 @@ const Home = () => {
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
-						Jane presents traditional spanish art with a modern twist. Her work is
-						excellent quality, her technique is brilliant and her love of the
-						subject matter shines through.
+						Welcome to the Oak Island Property Owners' Association website!
 					</div>
-					<div class={style.author}>- The Local Newspaper</div>
+					<div class={style.author}>- good stuff coming soon!</div>
 				</div>
 			</div>
 			<div class={style.bio}>
