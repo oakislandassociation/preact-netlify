@@ -24,29 +24,18 @@ const Home = () => {
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
-						Welcome to the Oak Island Property Owners' Association website!
+						Welcome to the Oak Island Subdivision Owners' Association website!
 					</div>
 					<div class={style.author}>- good stuff coming soon!</div>
 				</div>
 			</div>
 			<div class={style.bio}>
 				<p class={style.bioleft}>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-					eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-					minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-					aliquip ex ea commodo consequat. Duis aute irure dolor in
-					reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-					pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-					culpa qui officia deserunt mollit anim id est laborum.
+					<a href="https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=FeiNumber&directionType=Initial&searchNameOrder=592778728N155840&aggregateId=domnp-n15584-96a36bd7-156b-4f21-bdf8-78bffde2beb5&searchTerm=592778728&listNameOrder=592778728N155840"
+target="_blank">Direct link to Florida Sunbiz corporation info - N15584</a>
 				</p>
 				<p class={style.bioright}>
-					Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-					accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-					ab illo inventore veritatis et quasi architecto beatae vitae dicta
-					sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-					aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos
-					qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
-					dolorem ipsum quia dolor sit amet, consectetur.
+					
 				</p>
 			</div>
 		</div>
